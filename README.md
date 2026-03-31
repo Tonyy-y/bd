@@ -17,3 +17,4 @@ Reguli de funcționare:
 - Un film poate fi asociat mai multor categorii simultan, permițând o filtrare avansată în catalogul cinematografului.
 
 ![Diagrama erd](diagrama_erd.png)
+![Diagrama erd](diagrama_conceptuala.png)
