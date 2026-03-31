@@ -15,3 +15,5 @@ Reguli de funcționare:
 - Clienții au posibilitatea de a lăsa recenzii pentru filmele vizionate.
 - Vânzările la bar sunt înregistrate de către casieri, menționându-se cantitatea pentru fiecare produs sau meniu vândut, pentru a asigura scăderea automată din stoc.
 - Un film poate fi asociat mai multor categorii simultan, permițând o filtrare avansată în catalogul cinematografului.
+
+![Diagrama erd](diagrama_erd.png)
